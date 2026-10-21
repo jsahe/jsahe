@@ -16,6 +16,7 @@ and demand flexibility.
 | [**Wind, solar and battery sizing for an industrial load**](https://github.com/jsahe/wind-solar-battery-sizing) · MATLAB | Component-level PV, wind and battery models, with a year-long 5-minute simulation for every configuration | 14 turbines, 9,500 PV modules, 5.5 MWh: **$81.2M saved over 10 years, 3.98-yr payback** |
 | [**Low-GWP refrigerants for a cold-climate heat pump**](https://github.com/jsahe/low-gwp-heat-pump-refrigerants) · EES | ASHRAE load calculation, variable-speed compressor model, coil sizing, full-cycle performance | **HSPF 12.4 / SEER 15**; R-1234ze(E) has the highest heating COP at low ambient temperature |
 | [**Wind supply sizing for a blue-ammonia plant**](https://github.com/jsahe/ammonia-plant-wind-sizing) · MATLAB | Wind-farm sizing against grid supply, plus plant techno-economics | **80 MW optimum** cuts electricity cost 28%; LCOA **$256/t** |
+| [**Temperature and concentration dependence of GaAs solar cells**](https://github.com/jsahe/gaas-solar-cell-thermal-characterization) · MATLAB | I-V and quantum-efficiency analysis at 15–75 °C and 1–7 suns (University of Tokyo, 2023; code only, lab data not public) | Efficiency **17.0% → 14.8%** from 15 to 70 °C; temperature is the dominant loss at every concentration |
 
 ### Research and other work (described, no code)
 
@@ -40,12 +41,6 @@ I designed, built and tested a prototype that uses controlled pressure transient
 thermal energy, over 50+ hours of testing: about 5% thermal energy recovery, with all
 functional and safety targets met. The analysis and results contributed to a patent
 application filed by the sponsor, on which the sponsoring engineer is the named inventor.
-
-**GaAs concentrator solar cells**, research internship, The University of Tokyo, 2023.
-I-V and quantum-efficiency characterization of GaAs cells from 15 to 75 °C and 1 to 7 suns.
-Efficiency fell from 17.0% to 14.8% between 15 and 70 °C, about 0.4 percentage points per
-10 °C. Heating cost more efficiency than concentration did, at every concentration level, so
-the design lever for concentrator systems is thermal management.
 
 ### Tools
 
