@@ -42,8 +42,10 @@ functional and safety targets met. The analysis and results contributed to a pat
 application filed by the sponsor, on which the sponsoring engineer is the named inventor.
 
 **GaAs concentrator solar cells**, research internship, The University of Tokyo, 2023.
-Temperature- and irradiance-dependent I-V characterization of 50+ cells. Efficiency fell
-0.4% per 10 °C, showing that cell temperature, not concentration, drove the losses.
+I-V and quantum-efficiency characterization of GaAs cells from 15 to 75 °C and 1 to 7 suns.
+Efficiency fell from 17.0% to 14.8% between 15 and 70 °C, about 0.4 percentage points per
+10 °C. Heating cost more efficiency than concentration did, at every concentration level, so
+the design lever for concentrator systems is thermal management.
 
 ### Tools
 
