@@ -13,9 +13,9 @@ and demand flexibility.
 
 | Project | What it shows | Result |
 |---|---|---|
-| [**Wind, solar and battery sizing for an industrial load**](https://github.com/jose-sandoval/wind-solar-battery-sizing) · MATLAB | Component-level PV, wind and battery models, with a year-long 5-minute simulation for every configuration | 14 turbines, 9,500 PV modules, 5.5 MWh: **$81.2M saved over 10 years, 3.98-yr payback** |
-| [**Low-GWP refrigerants for a cold-climate heat pump**](https://github.com/jose-sandoval/low-gwp-heat-pump-refrigerants) · EES | ASHRAE load calculation, variable-speed compressor model, coil sizing, full-cycle performance | **HSPF 12.4 / SEER 15**; R-1234ze(E) has the highest heating COP at low ambient temperature |
-| [**Wind supply sizing for a blue-ammonia plant**](https://github.com/jose-sandoval/ammonia-plant-wind-sizing) · MATLAB | Wind-farm sizing against grid supply, plus plant techno-economics | **80 MW optimum** cuts electricity cost 28%; LCOA **$256/t** |
+| [**Wind, solar and battery sizing for an industrial load**](https://github.com/jsahe/wind-solar-battery-sizing) · MATLAB | Component-level PV, wind and battery models, with a year-long 5-minute simulation for every configuration | 14 turbines, 9,500 PV modules, 5.5 MWh: **$81.2M saved over 10 years, 3.98-yr payback** |
+| [**Low-GWP refrigerants for a cold-climate heat pump**](https://github.com/jsahe/low-gwp-heat-pump-refrigerants) · EES | ASHRAE load calculation, variable-speed compressor model, coil sizing, full-cycle performance | **HSPF 12.4 / SEER 15**; R-1234ze(E) has the highest heating COP at low ambient temperature |
+| [**Wind supply sizing for a blue-ammonia plant**](https://github.com/jsahe/ammonia-plant-wind-sizing) · MATLAB | Wind-farm sizing against grid supply, plus plant techno-economics | **80 MW optimum** cuts electricity cost 28%; LCOA **$256/t** |
 
 ### Research and other work (described, no code)
 
